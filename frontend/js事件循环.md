@@ -32,7 +32,7 @@ js作为的单线程去处理事件的策略。单线程的好处就是可以避
 
 通常io(ajax获取数据)、用户/浏览器自执行事件(onclick onload等)以及定时器(setTimeout setInterval)都可以算异步操作。
 
-![image-20200610234118496](../imgs/image-20200610234118496.png)
+![image-20200610234118496](https://tva1.sinaimg.cn/large/007S8ZIlly1gfol64am4lj30vj0qc47b.jpg)
 
 
 
